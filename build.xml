@@ -20,9 +20,9 @@
 	<!-- Build Property - filename is provided by cmd argument -->
 	 <property name="BUILD.NAME" value="MITBusinessComponents.cba" /> 
 	<property name="BUILD.ARTIFACT.DIR" value="/home/appadmin/workspace/MDMAEPOC1/artifact" />
-	 <property name="JAVAC.SRC.VERSION" value="1.8" />
+	<!-- <property name="JAVAC.SRC.VERSION" value="1.8" />
 	<property name="JAVAC.TARGET.VERSION" value="1.8" />
-	<property name="JAVAC.COMPILER.PATH" value="/home/appadmin/workspace/MDMAEPOC1/java/8.0/bin/javac" />
+	<property name="JAVAC.COMPILER.PATH" value="/home/appadmin/workspace/MDMAEPOC1/java/8.0/bin/javac" /> -->
 	
     <!-- <property file="${BUILD.NAME}.properties" /> -->
 	<!-- SQL Files -->
