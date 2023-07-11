@@ -19,14 +19,14 @@
 	
 	<!-- Build Property - filename is provided by cmd argument -->
 	 <property name="BUILD.NAME" value="MITBusinessComponents.cba" /> 
-	<property name="BUILD.ARTIFACT.DIR" value="../artifact" />
+	<property name="BUILD.ARTIFACT.DIR" value="/home/appadmin/workspace/MDMAEPOC1/artifact" />
 	 <property name="JAVAC.SRC.VERSION" value="1.8" />
 	<property name="JAVAC.TARGET.VERSION" value="1.8" />
-	<property name="JAVAC.COMPILER.PATH" value="/opt/webSpshere/AppServer/java/8.0/bin/javac" />
+	<property name="JAVAC.COMPILER.PATH" value="/home/appadmin/workspace/MDMAEPOC1/java/8.0/bin/javac" />
 	
     <!-- <property file="${BUILD.NAME}.properties" /> -->
 	<!-- SQL Files -->
-	<property name="MDMSharedResources.dir" value="../MDMSharedResources"/>	
+	<property name="MDMSharedResources.dir" value="/home/appadmin/workspace/MDMAEPOC1/MITAEPOC1/MDMSharedResources"/>	
 	
 	<!-- MDM 11 LIB for compiling -->	
 	<property name="mdm11lib.dir" value="/home/appadmin/workspace/MDMAEPOC1/MDM_11_LIB" />
